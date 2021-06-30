@@ -1,0 +1,12 @@
+Created the new Github account with 
+username:HaindaviKotha 
+Email Address:haindavikotha@gmail.com
+Password:Haindavi@9
+
+performing the demo in Git Bash with following commands initially:
+git --version : Shows version
+git --help
+
+1. First time git bash needs to be configured stating what should be the user-id and email.
+git config --global user.name "HaindaviKotha"
+
